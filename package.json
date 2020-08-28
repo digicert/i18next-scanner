@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:i18next/i18next-scanner.git"
+    "url": "git@github.com:digicert/i18next-scanner.git"
   },
   "license": "MIT",
   "engines": {
